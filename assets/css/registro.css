@@ -7,7 +7,7 @@
 }
 
 .registry-header__logo {
-  width: 2.625rem;
+  width: 40vw;
   margin-bottom: 0.5rem;
 }
 
@@ -19,7 +19,7 @@
 
 @media (min-width: 800px) {
   .registry-header__logo {
-    width: 5.75rem;
+    width: 40vw;
     margin-bottom: 1rem;
   }
 
